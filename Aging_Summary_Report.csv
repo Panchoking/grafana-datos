@@ -1,0 +1,12 @@
+Name,Total,< 3d,3-5d,6-8d,9-14d,15-21d,22-30d,> 30d
+Seguridad,1,0,0,0,0,0,0,1
+Respaldo,0,0,0,0,0,0,0,0
+Performance,3,0,0,0,0,0,0,3
+No type,20,1,0,0,1,0,1,17
+Monitoreo,7,0,0,0,0,0,0,4
+Mantenimiento,136,0,0,0,3,0,15,121
+Informe,2,0,0,0,0,0,0,2
+Consulta,0,0,0,0,0,0,0,0
+Caida,4,0,0,0,0,0,0,4
+Administracion,371,4,3,2,13,10,15,324
+Total,544,5,3,2,14,13,31,476
